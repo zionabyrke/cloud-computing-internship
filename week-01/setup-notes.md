@@ -7,7 +7,7 @@
 
 ## Using commands.sh
 
-`commands.sh` accepts the VM's public IP as an argument so the same script works for any VM you deploy - not just this week's `HelloCloudVM`. Run it with `bash` since you're on Arch and not using `./`:
+`commands.sh` accepts the VM's public IP as an argument so the same script works for any VM you deploy - not just this week's `HelloCloudVM`. Run it with `bash` if you're on Arch and not using `./`:
 
 ```bash
 bash commands.sh <VM_PUBLIC_IP>
