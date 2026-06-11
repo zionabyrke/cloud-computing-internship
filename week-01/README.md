@@ -38,8 +38,9 @@ Week 1 covered getting a cloud server up and running from scratch. This included
 | `README.md` | This file - week summary and deliverables |
 | `commands.sh` | All CLI commands used during the week |
 | `setup-notes.md` | Step-by-step task documentation |
-| `architecture/diagram.png` | Cloud setup architecture diagram (see PDF report) |
+| `architecture/diagram.png` | Cloud setup architecture diagram |
 
+![Architecture Diagram](diagrams/diagram_1.png)
 
 ## ☁️ Key Learnings
 
