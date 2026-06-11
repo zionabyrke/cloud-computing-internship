@@ -4,7 +4,7 @@
 **Department:** Cloud Computing - Lamina Studios, LLC.  
 **Duration:** 6 Weeks (240 Hours)  
 **Mode:** Online  
-**Platforms:** Microsoft Azure  
+**Platform used:** Microsoft Azure  
 **Tools:** Docker, Kubernetes, Terraform, GitHub, Jenkins, Ansible, Prometheus, Grafana  
 
 
@@ -19,8 +19,8 @@ This repository documents all hands-on tasks, commands, configurations, and deli
 | Week | Topic | Status | Key Deliverable |
 |------|-------|--------|-----------------|
 | [Week 1](./week-01/) | Cloud Fundamentals & VM Setup | ✅ Done | VM + SSH documentation |
-| [Week 2](./week-02/) | Linux Administration for Cloud | 🔄 In Progress | Bash scripts + command documentation |
-| [Week 3](./week-03/) | Networking & Security Basics | ⏳ Pending | VPC architecture diagram |
+| [Week 2](./week-02/) | Linux Administration for Cloud | ✅ Done | Bash scripts + command documentation |
+| [Week 3](./week-03/) | Networking & Security Basics | 🔄 In Progress | VPC architecture diagram |
 | [Week 4](./week-04/) | Storage & Database Services | ⏳ Pending | Database connectivity report |
 | [Week 5](./week-05/) | Virtualization & Containerization | ⏳ Pending | Dockerfile + container instructions |
 | [Week 6](./week-06/) | Kubernetes & Container Orchestration | ⏳ Pending | Working Kubernetes cluster deployment |
